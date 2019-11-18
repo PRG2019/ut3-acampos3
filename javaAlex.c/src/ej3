@@ -1,4 +1,4 @@
-```java
+´´´java
 public class ejer3 {
 	public static void main(String[] args) {
 		MiNumero num = new MiNumero();
@@ -27,4 +27,4 @@ public class MiNumero {
         return resultado3;
     }
 }
-```
+´´´
