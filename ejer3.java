@@ -1,4 +1,4 @@
-```java
+
 package ut3;
 
 public class ejer3 {
@@ -32,4 +32,4 @@ public class MiNumero {
     }
 }
 
-```
+
