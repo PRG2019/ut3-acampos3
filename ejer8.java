@@ -22,7 +22,7 @@ public class ejer8 {
 }
 }
 
-//*main
+
 package ut3;
 
 public class Coche {
